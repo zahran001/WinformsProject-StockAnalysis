@@ -1,0 +1,11 @@
+C:\Users\minha\Downloads\SSD_Project2_Final\SSD_Project1_Project2\SSD_Project1\bin\Debug\SSD_Project1.exe.config
+C:\Users\minha\Downloads\SSD_Project2_Final\SSD_Project1_Project2\SSD_Project1\bin\Debug\SSD_Project1.exe
+C:\Users\minha\Downloads\SSD_Project2_Final\SSD_Project1_Project2\SSD_Project1\bin\Debug\SSD_Project1.pdb
+C:\Users\minha\Downloads\SSD_Project2_Final\SSD_Project1_Project2\SSD_Project1\obj\Debug\SSD_Project1.csproj.AssemblyReference.cache
+C:\Users\minha\Downloads\SSD_Project2_Final\SSD_Project1_Project2\SSD_Project1\obj\Debug\SSD_Project1.Form_Start.resources
+C:\Users\minha\Downloads\SSD_Project2_Final\SSD_Project1_Project2\SSD_Project1\obj\Debug\SSD_Project1.Form_ChartDisplay.resources
+C:\Users\minha\Downloads\SSD_Project2_Final\SSD_Project1_Project2\SSD_Project1\obj\Debug\SSD_Project1.Properties.Resources.resources
+C:\Users\minha\Downloads\SSD_Project2_Final\SSD_Project1_Project2\SSD_Project1\obj\Debug\SSD_Project1.csproj.GenerateResource.cache
+C:\Users\minha\Downloads\SSD_Project2_Final\SSD_Project1_Project2\SSD_Project1\obj\Debug\SSD_Project1.csproj.CoreCompileInputs.cache
+C:\Users\minha\Downloads\SSD_Project2_Final\SSD_Project1_Project2\SSD_Project1\obj\Debug\SSD_Project1.exe
+C:\Users\minha\Downloads\SSD_Project2_Final\SSD_Project1_Project2\SSD_Project1\obj\Debug\SSD_Project1.pdb
